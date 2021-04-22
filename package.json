@@ -1,6 +1,5 @@
 {
   "name": "simple-hostname-generator",
-  "name": "svelte-app",
   "version": "1.0.0",
   "homepage": "https://hostname.karasevm.ru/",
   "private": true,
